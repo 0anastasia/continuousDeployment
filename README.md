@@ -1,5 +1,5 @@
 рабочее окружение
-![CI](https://github.com/<0anastasia>/<continuousDeployment>/actions/workflows/web.yml/badge.svg)
+![CI](https://github.com/0anastasia/continuousDeployment/actions/workflows/web.yml/badge.svg)
 
 # Webpack5
 

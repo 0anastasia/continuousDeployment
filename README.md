@@ -1,3 +1,6 @@
+рабочее окружение
+![CI](https://github.com/<0anastasia>/<continuousDeployment>/actions/workflows/web.yml/badge.svg)
+
 # Webpack5
 
 [Руководство по настройке Webpack](https://webpack.js.org/guides/)
